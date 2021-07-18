@@ -1,2 +1,3 @@
 This is test2.txt created directly in remote repo
 adding second line with comment
+test
